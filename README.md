@@ -48,7 +48,7 @@ O plugin reconhece automaticamente as seguintes palavras-chave em seus formulár
 Acesse o diretório de plugins da sua instalação do GLPI:
 ```bash
 cd /var/www/html/glpi/plugins
-git clone https://github.com/SEU_USUARIO/glpi-plugin-viacep.git viacep
+git clone https://github.com/PetryckSlater/glpi-plugin-viacep.git viacep
 chown -R www-data:www-data viacep
 ```
 
